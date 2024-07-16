@@ -1,4 +1,4 @@
-#Vrinda Store Data Analysis Project
+# *Vrinda Store Data Analysis Project
 
 This project focuses on analyzing and visualizing sales data from Vrinda Store using Excel. The main objective is to provide insights into the store's performance, customer demographics, and sales trends through a comprehensive dashboard.
 
