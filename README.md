@@ -7,9 +7,7 @@ Project Description
 The Vrinda Store Project involved the following steps:
 
 Data Collection: Gathered sales data from Vrinda Store.
-
 Data Analysis: Performed various analyses to uncover insights related to orders, sales, customer demographics, and geographical sales distribution.
-
 Data Visualization: Created a detailed dashboard in Excel to visualize the findings.
 
 Key Performance Indicators (KPIs)
